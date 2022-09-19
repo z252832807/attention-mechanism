@@ -1,2 +1,2 @@
 # attention-mechanism
-注意力机制
+收录了各种注意力机制的代码实现情况
